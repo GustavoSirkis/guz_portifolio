@@ -1,7 +1,4 @@
 name: Guz Github Actions
-runs:
-  using: 'node19'
-  main: 'dist/index.js
 on: [push]
 jobs:
   Explore-GitHub-Actions:
